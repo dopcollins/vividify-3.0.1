@@ -3,7 +3,6 @@
 //  vividify 3.0
 //
 
-
 import SwiftUI
 
 @main
