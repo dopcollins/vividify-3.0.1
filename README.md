@@ -34,6 +34,3 @@ Three layers, and every layer is load-bearing.
 - Xcode 16+
 - [TOCropViewController](https://github.com/TimOliver/TOCropViewController) (Swift Package Manager)
 
-## Note on naming
-
-The `Controllers/` layer is MVC in intent — dumb views, a mediating controller, a pure model. Because SwiftUI owns view lifecycle, the layer is structurally what most people would call a view model. The separation is real either way; the label is the only thing up for debate.
